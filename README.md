@@ -1,4 +1,4 @@
-<img src="https://media.baamboozle.com/uploads/images/320100/1636850195_27995_gif-url.gif"/>
+<h1>mmmm_lemon</h1>
 
 <!--
 **mmmmlemon/mmmmlemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
