@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://i.pinimg.com/originals/e4/f4/8a/e4f48ad87846a3ed2310792f8cab38bd.gif"/>
 
 <!--
 **mmmmlemon/mmmmlemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
